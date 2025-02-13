@@ -1,2 +1,2 @@
 # tic-tac-toe
-thisis tic tac toe code
+this is tic tac toe code
